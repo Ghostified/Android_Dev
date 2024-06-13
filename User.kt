@@ -16,6 +16,5 @@ val john = User (firstName =   "John", lastName =  "Humphrey" )
 val james = User (firstName = "James ", lastName = "Potter")
 val hermione = User (firstName = "Hermione ", lastName = "Granger")
 val ron = User (firstName = "Ron", lastName = "Weasly")
-val hermione = User (firstName = "Hermione ", lastName = "Granger")
-val ron = User (firstName = "Ron", lastName = "Weasly")
+
 
